@@ -1,3 +1,3 @@
 Password if locked: 4657 |
-                                                         commands: (lock activeOS) (exit activeOS)    (echo {text})
+                                                         commands in activeOS terminal: (lock activeOS) (exit activeOS)    (echo {text})
 
